@@ -6,8 +6,8 @@
 <p>3.Memory component has all varibales and functions as a key value pairs.Also called <b>"Variable Environment"</b>.
 <p>4.Code component is the place where code is exceuted one line at a time.Also called <b>"Thread of Execution"</b>
 <p>5.JS is <b>Synchronous ,Single-threaded language</b>
-<li>
-<ul>Single Threaded:JS can execute only one command at a time.</ul>
-<ul>Synchronuos Single Threaded:JS can exceute only one command at a time and only in a specific order</ul>
-<li>
+
+<li>Single Threaded:JS can execute only one command at a time.</li>
+<li>Synchronuos Single Threaded:JS can exceute only one command at a time and only in a specific order</li>
+
 <p>Can go to next line once the current line has been finsihed executing.</p>
